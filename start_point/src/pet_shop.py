@@ -52,10 +52,15 @@ def get_customer_pet_count(customers):
 def add_pet_to_customer(customers, new_pet):
     customers["pets"].append(new_pet)
 
+#Optional Tests
+
 def customer_can_afford_pet(customers, new_pet):
     if customers["cash"] >= new_pet["price"]:
         return True
     else:
         return False
 
+# Multi Asserts Tests
 
+def sell_pet_to_customer(cc-pet_shop, pet, customer):
+    if get_customer_pet_count 
