@@ -62,5 +62,6 @@ def customer_can_afford_pet(customers, new_pet):
 
 # Multi Asserts Tests
 
+# STUCK Not sure what to do with these
 def sell_pet_to_customer(cc-pet_shop, pet, customer):
     if get_customer_pet_count 
